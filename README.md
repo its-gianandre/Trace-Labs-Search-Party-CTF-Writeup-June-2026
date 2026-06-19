@@ -17,7 +17,7 @@ Ranking:
 <img width="2184" height="750" alt="image" src="https://github.com/user-attachments/assets/5abbb35a-7cf6-4bb9-a509-c81fbf7c5f34" />
 
 
-## MP Challenge:
+## MP (Missing Persons) Challenge:
 ### Initial Phase
 Due to the difficult nature of the challenges, I focused most of my attention and effort on one particular missing persons (MP) case. I started of initially with some simple google dorking techniques (e.g. site:platform.com "Person Name"). I used these techniques to look for any signs of activity on various platforms, including Instagram, Facebook, Youtube, and LinkedIn. 
 
@@ -31,4 +31,8 @@ I had eventually found a facebook post that served as a sort-of baseline of info
 - Childhood/upbringing
 - Education
 - Employment
-Since this was from a social media page however, I would not be able to submit this post by itself for it to count as a flag. Even if it were not a CTF, it would be helpful to provide evidence to back up this information. The first thing I decided to search for was 
+
+Since this was from a social media page however, I would not be able to submit this post by itself for it to count as a flag. Even if it were not a CTF, it would be helpful to provide evidence to back up this information. The first thing I decided to search for was education information. I first used google dorking technique to see if a profile would pop up on LinkedIn. I did not find anything related to him on LinkedIn. I did however find a local news bulletin that published an article on a couple of the recent graduates (class of 2022) that graduated from a local university, one of which happened to include the MP. A similar post found on X (Twitter) also confirmed this, so enough evidence was found to confirm that the MP was in fact a graduate of said university.
+
+### Hours 2 and 3 of the CTF
+The missing persons post suggested that the MP worked at a medical center of some kind. As mentioned before, I first used google dorking techniques on LinkedIn to see if a profile would come up. Nothing was found, so I looked through the company LinkedIn page instead. It's possible that the MP was not active or didn't regularly use LinkedIn, so their account would probably not be set up completely. If that was the case, it would also be possible that the account would be under the name "LinkedIn Member" rather than their actual name. 
