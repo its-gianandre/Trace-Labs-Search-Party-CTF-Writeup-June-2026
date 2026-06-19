@@ -36,3 +36,5 @@ Since this was from a social media page however, I would not be able to submit t
 
 ### Hours 2 and 3 of the CTF
 The missing persons post suggested that the MP worked at a medical center of some kind. As mentioned before, I first used google dorking techniques on LinkedIn to see if a profile would come up. Nothing was found, so I looked through the company LinkedIn page instead. It's possible that the MP was not active or didn't regularly use LinkedIn, so their account would probably not be set up completely. If that was the case, it would also be possible that the account would be under the name "LinkedIn Member" rather than their actual name. 
+
+[Work in Progress]
