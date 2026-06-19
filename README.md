@@ -12,7 +12,8 @@ For context, all of the work done for this CTF was completed by myself. I was no
 
 Team name: its_just_gman
 
-Ranking:
+Ranking: 
+103rd, 70 points
 <img width="2184" height="750" alt="image" src="https://github.com/user-attachments/assets/5abbb35a-7cf6-4bb9-a509-c81fbf7c5f34" />
 
 
