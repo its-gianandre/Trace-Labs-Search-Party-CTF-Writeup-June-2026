@@ -4,6 +4,7 @@
 </p>
 
 [Work in Progress]
+
 The Trace Labs Search Party CTF is a non theoretical, gamified effort that allows for the crowdsourcing of contestants to perform a single task: Conduct open source intelligence operations to help find missing persons.
 
 ## Summary/Background: 
