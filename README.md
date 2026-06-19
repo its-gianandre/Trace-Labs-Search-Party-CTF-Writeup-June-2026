@@ -18,4 +18,10 @@ Ranking:
 
 
 ## MP Challenge:
+### Initial Phase
+Due to the difficult nature of the challenges, I focused most of my attention and effort on one particular missing persons (MP) case. I started of initially with some simple google dorking techniques (e.g. site:platform.com "Person Name"). I used these techniques to look for any signs of activity on various platforms, including Instagram, Facebook, Youtube, and LinkedIn. 
+
+The following image shows what kinds of information counts as flags and how many points each type of information was worth. 
+<img width="957" height="652" alt="image" src="https://github.com/user-attachments/assets/2328f267-8e90-4393-be68-76c03c0efca9" />
+
 
