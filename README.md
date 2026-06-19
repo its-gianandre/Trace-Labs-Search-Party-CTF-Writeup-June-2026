@@ -24,4 +24,11 @@ Due to the difficult nature of the challenges, I focused most of my attention an
 The following image shows what kinds of information counts as flags and how many points each type of information was worth. 
 <img width="757" height="452" alt="image" src="https://github.com/user-attachments/assets/2328f267-8e90-4393-be68-76c03c0efca9" />
 
+My strategy was to focus on employment info and basic subject info, categories in which I felt I would be able to capture flags, while also choosing a category in which the points for each flag was worth a relatively substantial amount. In other words, I wanted to feel like I was earning enough points when it came to actually capturing the flags. 
 
+I had eventually found a facebook post that served as a sort-of baseline of information that I could work with. It was from a missing persons page stating some facts about the MP. Some of the information included:
+- Interests
+- Childhood/upbringing
+- Education
+- Employment
+Since this was from a social media page however, I would not be able to submit this post by itself for it to count as a flag. Even if it were not a CTF, it would be helpful to provide evidence to back up this information. The first thing I decided to search for was 
