@@ -10,4 +10,10 @@ This challenge focused on identifying information about a target using open-sour
 
 For context, all of the work done for this CTF was completed by myself. I was not in a team, but I was accomodated by a coach during the entire time of the competition (as provided by TraceLabs). The CTF only lasted a total of 4 hours. It was a jeapardy-style CTF, but instead of flags being concrete answers that the competition challenge developers know about, the flags are potentially helpful information that law enforcement would be able to use in order to help find the MP (missing person).
 
+Team name: its_just_gman
+
+Ranking:
+<img width="2184" height="750" alt="image" src="https://github.com/user-attachments/assets/5abbb35a-7cf6-4bb9-a509-c81fbf7c5f34" />
+
+
 ## MP Challenge:
