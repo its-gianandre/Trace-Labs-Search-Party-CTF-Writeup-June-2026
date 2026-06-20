@@ -68,3 +68,21 @@ One of the biggest challenges I encountered was dealing with incomplete informat
 If I were to participate again, I would spend more time prepareing a structured workflow for evidence collection and note-taking. I would also become more familiar with additional OSINT tools and techniques that could help accelerate the investigation process under strict time contraints.
 
 Although my final score of 70 points and placement of 103rd may not appear exceptional compared to more experienced competitors, the event provided valuable practical experience and highlighted areas where I can continue improving OSINT and investigative skills. Most importantly, the competition demonstrated how OSINt can contribute to real-world humanitarian efforts by supporting investigations into missing-person cases.
+
+## Tools Used:
+- Google Search
+- Microsoft Edge
+- Google Dorking
+- LinkedIn
+- Facebook
+- X (Twitter)
+- SpokeO (Name, email and phone number lookup)
+- Public news articles
+- Team roster databases
+
+## Lessons Learned:
+- Validate information using multiple independent sources whenever possible.
+- Dead ends are a normal part of OSINT investigations.
+- Family members and community organizations often provide valuable investigative leads.
+- Time management is critical in short-duration OSINT competitions.
+- Maintaining organized notes can significantly improve investigative efficiency.
