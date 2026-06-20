@@ -54,4 +54,17 @@ I shifted directions and looked at potential sports groups that the MP was a par
 - Nickname and identity verification - rosters sometimes contain alternate spellings, initials, or jersy numbers that help correlate records across platforms
 
 ### Last hour of the CTF
-I decided to get some last-minute flags by looking up some information on family. This was fairly simple. Because of the nature of missing persons posts, many family members will step up and speak out about the situation. I was able to find a couple of family members related to the MP through a comment on an exising missing person's report on Facebook. 
+I decided to get some last-minute flags by looking up some information on family. This was fairly simple. Because of the nature of missing persons posts, many family members will step up and speak out about the situation. I was able to find a couple of family members related to the MP through a comment on an existing missing person's post on Facebook. The following family members were found:
+- Grandmother of the MP
+- Granddaughter of the grandmother (potentially the MP's cousin)
+
+## Conclusion
+This CTF was my first opportunity to apply OSINT techniques in a real-world situation. Unlike traditional CTFs that have predefined answers, this competition required participants to gather information that could potententially assist law enforcement and investigators, making the process far more open-ended and challenging.
+
+Throughout the four-hour event, I learned the importance of developing investigative leads from small pieces of information and validating findings through multiple independent sources whenever possible. While I was unable to confirm every lead I pursued, I successfully identified and documented several pieces of information related to the mising person's education, sports participation, and family connections. More importantly, I gained experience building timelines, corroborating information, and assessing the reliability of publicly available sources.
+
+One of the biggest challenges I encountered was dealing with incomplete information and dead ends. Many searches produced little or no useful information, requiring me to continously adapt my approach and pursue alternative avenues of investigation. This reinforced the importance of flexibility and persistence during OSINT investigations. 
+
+If I were to participate again, I would spend more time prepareing a structured workflow for evidence collection and note-taking. I would also become more familiar with additional OSINT tools and techniques that could help accelerate the investigation process under strict time contraints.
+
+Although my final score of 70 points and placement of 103rd may not appear exceptional compared to more experienced competitors, the event provided valuable practical experience and highlighted areas where I can continue improving OSINT and investigative skills. Most importantly, the competition demonstrated how OSINt can contribute to real-world humanitarian efforts by supporting investigations into missing-person cases.
