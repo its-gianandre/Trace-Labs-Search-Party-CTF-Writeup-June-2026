@@ -44,7 +44,7 @@ Since this was from a social media page however, I would not be able to submit t
 ### Hours 2 and 3 of the CTF
 The missing persons post suggested that the MP worked at a medical center of some kind. As mentioned before, I first used google dorking techniques on LinkedIn to see if a profile would come up. Nothing was found, so I looked through the company LinkedIn page instead. It's possible that the MP was not active or didn't regularly use LinkedIn, so their account would probably not be set up completely. If that was the case, it would also be possible that the account would be under the name "LinkedIn Member" rather than their actual name. Needless to say, I did not find any profiles of the MP on LinkedIn to confirm their employment. Unfortunately, the only information regarding an employee database was blocked by a paywall, so any information regarding employment was not confirmed.
 
-#### First Flag
+### First Flag
 I shifted directions and looked at potential sports groups that the MP was a part of, since the original facebook post mentioned that they were involved in hockey since their childhood. I again used google dorking techniques to find basic information on the MP. The results returned some old but potentially useful information: team roster information from two separate hockey teams in their youth. Although this may not yield as super useful information, the information found could serve as the following: 
 
 - Age cohort estimation - teammates are usually within a narrow age range, helping establish likely graduation years and social circles.
