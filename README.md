@@ -27,7 +27,11 @@ The following image shows what kinds of information counts as flags and how many
 
 <img width="757" height="452" alt="image" src="https://github.com/user-attachments/assets/2328f267-8e90-4393-be68-76c03c0efca9" />
 
-My strategy was to focus on employment info and basic subject info, categories in which I felt I would be able to capture flags, while also choosing a category in which the points for each flag was worth a relatively substantial amount. In other words, I wanted to feel like I was earning enough points when it came to actually capturing the flags. 
+We were given pictures of the MP, where they were last seen, when they were last seen, a short biography, demographics, unique identifiers, the scenario that played out before they went missing, and for this particular MP, we had a phone number and email address. 
+
+My strategy was to focus on employment info and basic subject info, categories in which I felt I would be able to capture flags, while also choosing a category in which the points for each flag was worth a relatively substantial amount. In other words, I wanted to feel like I was earning enough points when it came to actually capturing the flags.
+
+Going back to the actual search, I tried some simple email lookup and phone number lookup tools. Unfortunately the only thing that returned was a soundcloud account under the email. 
 
 I had eventually found a facebook post that served as a sort-of baseline of information that I could work with. It was from a missing persons page stating some facts about the MP. Some of the information included:
 - Interests
@@ -38,4 +42,16 @@ I had eventually found a facebook post that served as a sort-of baseline of info
 Since this was from a social media page however, I would not be able to submit this post by itself for it to count as a flag. Even if it were not a CTF, it would be helpful to provide evidence to back up this information. The first thing I decided to search for was education information. I first used google dorking technique to see if a profile would pop up on LinkedIn. I did not find anything related to him on LinkedIn. I did however find a local news bulletin that published an article on a couple of the recent graduates (class of 2022) that graduated from a local university, one of which happened to include the MP. A similar post found on X (Twitter) also confirmed this, so enough evidence was found to confirm that the MP was in fact a graduate of said university.
 
 ### Hours 2 and 3 of the CTF
-The missing persons post suggested that the MP worked at a medical center of some kind. As mentioned before, I first used google dorking techniques on LinkedIn to see if a profile would come up. Nothing was found, so I looked through the company LinkedIn page instead. It's possible that the MP was not active or didn't regularly use LinkedIn, so their account would probably not be set up completely. If that was the case, it would also be possible that the account would be under the name "LinkedIn Member" rather than their actual name. 
+The missing persons post suggested that the MP worked at a medical center of some kind. As mentioned before, I first used google dorking techniques on LinkedIn to see if a profile would come up. Nothing was found, so I looked through the company LinkedIn page instead. It's possible that the MP was not active or didn't regularly use LinkedIn, so their account would probably not be set up completely. If that was the case, it would also be possible that the account would be under the name "LinkedIn Member" rather than their actual name. Needless to say, I did not find any profiles of the MP on LinkedIn to confirm their employment. Unfortunately, the only information regarding an employee database was blocked by a paywall, so any information regarding employment was not confirmed.
+
+#### First Flag
+I shifted directions and looked at potential sports groups that the MP was a part of, since the original facebook post mentioned that they were involved in hockey since their childhood. I again used google dorking techniques to find basic information on the MP. The results returned some old but potentially useful information: team roster information from two separate hockey teams in their youth. Although this may not yield as super useful information, the information found could serve as the following: 
+
+- Age cohort estimation - teammates are usually within a narrow age range, helping establish likely graduation years and social circles.
+- Geographic information - membership of the team in said location helps corroborate residence during a specific period.
+- Associates and contacts - teammates, coaches, managers, and parents can be come potential sources of information in missing-person investigation
+- Timeline construction - confirms participation in a specific organization during a specific season
+- Nickname and identity verification - rosters sometimes contain alternate spellings, initials, or jersy numbers that help correlate records across platforms
+
+### Last hour of the CTF
+I decided to get some last-minute flags by looking up some information on family. This was fairly simple. Because of the nature of missing persons posts, many family members will step up and speak out about the situation. I was able to find a couple of family members related to the MP through a comment on an exising missing person's report on Facebook. 
